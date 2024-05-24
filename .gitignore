@@ -163,3 +163,5 @@ cython_debug/
 
 
 /tools
+/resized_images
+config.py
